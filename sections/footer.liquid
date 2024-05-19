@@ -299,8 +299,8 @@
         <small class="copyright__content"
           >
         </small>
-        <small class="copyright__content">{{ powered_by_link }}</small>
-        <h1> gusto kit is the best</h1>
+        {% comment %} <small class="copyright__content">{{ powered_by_link }}</small> {% endcomment %}
+        <p>powered by Gusto Kit for USA Kitchen Tools company</p>
         {%- if section.settings.show_policy -%}
           <ul class="policies list-unstyled">
             {%- for policy in shop.policies -%}
