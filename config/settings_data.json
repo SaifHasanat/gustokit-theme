@@ -390,7 +390,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".newsletter__wrapper .newsletter__subheading p {font-weight: bold;}"
+
     ]
   }
 }
