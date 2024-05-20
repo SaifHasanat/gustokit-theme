@@ -4,5 +4,12 @@
     "market": "international"
   },
   "sections": {
+    "main": {
+      "settings": {
+        "media_size": "small"
+      },
+      "blocks": {
+      }
+    }
   }
 }
