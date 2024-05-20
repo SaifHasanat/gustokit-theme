@@ -390,7 +390,11 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".newsletter__wrapper .newsletter__subheading p {font-weight: bold; }",
+      ".header.header--middle-left.header--mobile-center.page-width.header--has-menu {padding: 10px 20px; font-family: Arial, sans-serif; }",
+      ".header.header--middle-left.header--mobile-center.page-width.header--has-menu li {margin-right: 30px; }",
+      ".header__menu-item.list-menu__item.link.link--text.focus-inset {font-weight: 500; font-family: Arial, sans-serif;}",
+      " .button.button--secondary {font-weight: 500; font-size:15px; font-family: Arial, sans-serif; }"
     ]
   }
 }

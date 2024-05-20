@@ -35,6 +35,9 @@
         "heading",
         "button"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Screenshot_283.png",
         "image_overlay_opacity": 40,
