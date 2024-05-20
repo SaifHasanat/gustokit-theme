@@ -13,6 +13,20 @@
           "settings": {
           }
         },
+        "text_8zJJzr": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Free Shipping<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons_iq8f7D": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -55,6 +69,8 @@
       "block_order": [
         "title",
         "price",
+        "text_8zJJzr",
+        "buy_buttons_iq8f7D",
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
