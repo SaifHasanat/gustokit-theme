@@ -11,5 +11,10 @@
       "blocks": {
       }
     }
-  }
+  },
+  "order": [
+    "main",
+    "quick-order-list",
+    "related-products"
+  ]
 }
