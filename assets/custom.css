@@ -1,10 +1,10 @@
 .newsletter__wrapper .newsletter__subheading p {
-    color: green;
+    color: #28a745;
   }
 /* the discont 10% for Subscribe */
 .header.header--middle-left.header--mobile-center.page-width.header--has-menu {
     padding: 10px 20px;
-    font-family: Arial, sans-serif;
+
   }
   /* the meniu in the header */
 
@@ -14,13 +14,13 @@
 
 .header__menu-item.list-menu__item.link.link--text.focus-inset {
     font-weight: 500;
-    font-family: Arial, sans-serif;
+ 
 }  
 
 .button.button--secondary {
     font-weight: 500;
     font-size:15px;
-    font-family: Arial, sans-serif;
+  
   }
   /* button that go to the best seller */
 
@@ -29,15 +29,3 @@
   padding-right:25px ;
 }
 /* edit padding for the product container  */
-
-.media--hover-effect img {
-  border-radius: 15px;
-}
-/* make the product img not sharp in the home page */
-
-/* .card-wrapper.product-card-wrapper.underline-links-hover {
-  border: 3px solid #105541;
-  border-radius: 10px;
-  padding: 10px;
-} */
-/* boreder arond the product in the home page */
