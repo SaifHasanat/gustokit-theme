@@ -37,16 +37,16 @@
           "settings": {
             "heading": "Product features",
             "icon": "star",
-            "content": "",
+            "content": "<p>🌟 Ultimate Kitchen Companion: Combining an oil dispenser and sprayer, this 2-in-1 tool meets all your culinary needs. Its wide bottle mouth design eliminates the need for funnels, making it easy to use and fill.<br\/><br\/>✨ Premium Quality and Safety: Made from high-quality, BPA-free glass, this dispenser is odorless and ensures safe food preparation. The thickened glass construction provides durability, making it ideal for both indoor and outdoor use.<br\/><br\/>💕 Multi-Purpose Functionality: This versatile tool isn't just for oil—use it for vinegar, soy sauce, and other essential kitchen liquids. It's perfect for grilling, preparing salads, baking, watering plants, and even cleaning, showcasing its broad range of applications.<br\/><br\/>🌷 Precise Oil Management: A simple thumb press on the pump delivers a precise 0.2 ml spray, ensuring even distribution on your food and cookware. This efficient control system helps you manage oil usage effectively during cooking.<\/p>",
             "page": "product-features"
           }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials and care",
-            "icon": "leaf",
-            "content": "",
+            "heading": "How It works",
+            "icon": "lightning_bolt",
+            "content": "<ol><li><strong>Fill the reservoir with your choice of oil.<\/strong><\/li><li><strong>Pump the dispenser to  atomize the oil into a fine mist.<\/strong><\/li><li><strong>Spray the oil evenly over your dishes for perfect flavor and texture.<\/strong><\/li><\/ol>",
             "page": "materials-and-care"
           }
         },
