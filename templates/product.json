@@ -37,7 +37,7 @@
           "settings": {
             "heading": "Product features",
             "icon": "star",
-            "content": "<p>🌟 Ultimate Kitchen Companion: Combining an oil dispenser and sprayer, this 2-in-1 tool meets all your culinary needs. Its wide bottle mouth design eliminates the need for funnels, making it easy to use and fill.<br\/><br\/>✨ Premium Quality and Safety: Made from high-quality, BPA-free glass, this dispenser is odorless and ensures safe food preparation. The thickened glass construction provides durability, making it ideal for both indoor and outdoor use.<br\/><br\/>💕 Multi-Purpose Functionality: This versatile tool isn't just for oil—use it for vinegar, soy sauce, and other essential kitchen liquids. It's perfect for grilling, preparing salads, baking, watering plants, and even cleaning, showcasing its broad range of applications.<br\/><br\/>🌷 Precise Oil Management: A simple thumb press on the pump delivers a precise 0.2 ml spray, ensuring even distribution on your food and cookware. This efficient control system helps you manage oil usage effectively during cooking.<\/p>",
+            "content": "<h4>🌟 Ultimate Kitchen Companion: Combining an oil dispenser and sprayer, this 2-in-1 tool meets all your culinary needs. Its wide bottle mouth design eliminates the need for funnels, making it easy to use and fill.<br\/><br\/>✨ Premium Quality and Safety: Made from high-quality, BPA-free glass, this dispenser is odorless and ensures safe food preparation. The thickened glass construction provides durability, making it ideal for both indoor and outdoor use.<br\/><br\/>💕 Multi-Purpose Functionality: This versatile tool isn't just for oil—use it for vinegar, soy sauce, and other essential kitchen liquids. It's perfect for grilling, preparing salads, baking, watering plants, and even cleaning, showcasing its broad range of applications.<br\/><br\/>🌷 Precise Oil Management: A simple thumb press on the pump delivers a precise 0.2 ml spray, ensuring even distribution on your food and cookware. This efficient control system helps you manage oil usage effectively during cooking.<\/h4>",
             "page": "product-features"
           }
         },
@@ -46,7 +46,7 @@
           "settings": {
             "heading": "How It works",
             "icon": "lightning_bolt",
-            "content": "<ol><li><strong>Fill the reservoir with your choice of oil.<\/strong><\/li><li><strong>Pump the dispenser to  atomize the oil into a fine mist.<\/strong><\/li><li><strong>Spray the oil evenly over your dishes for perfect flavor and texture.<\/strong><\/li><\/ol>",
+            "content": "<ol><li><h4>Fill the reservoir with your choice of oil.<\/h4><\/li><li><h4>Pump the dispenser to atomize the oil into a fine mist.<\/h4><\/li><li><h4>Spray the oil evenly over your dishes for perfect flavor and texture.<\/h4><\/li><\/ol>",
             "page": "materials-and-care"
           }
         },
@@ -58,12 +58,6 @@
             "content": "",
             "page": "merchandising-tips"
           }
-        },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
@@ -74,8 +68,7 @@
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
-        "collapsible-row-2",
-        "share"
+        "collapsible-row-2"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -99,8 +92,8 @@
         "column_9LQe6F": {
           "type": "column",
           "settings": {
-            "title": "Dual Convenience",
-            "text": "<p>Allows for both spraying and pouring oil, making it versatile for various cooking methods such as dressing, roasting, and grilling.<\/p>",
+            "title": "<strong>Dual Convenience<\/strong>",
+            "text": "<h5>Allows for both spraying and pouring oil, making it versatile for various cooking methods such as dressing, roasting, and grilling.<\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -109,7 +102,7 @@
           "type": "column",
           "settings": {
             "title": "Sealed Hygiene",
-            "text": "<p>Designed to be leak-proof with a comfortable handle and prominent nozzle, ensuring a clean and mess-free experience without getting hands dirty.<\/p>",
+            "text": "<h5>Designed to be leak-proof with a comfortable handle and prominent nozzle, ensuring a clean and mess-free experience without getting hands dirty.<\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -118,7 +111,7 @@
           "type": "column",
           "settings": {
             "title": "Healthier Cooking",
-            "text": "<p>Helps control the amount of oil used, promoting healthier cooking habits by allowing precise oil measurement and usage.<\/p>",
+            "text": "<h5>Helps control the amount of oil used, promoting healthier cooking habits by allowing precise oil measurement and usage.<\/h5>",
             "link_label": "",
             "link": ""
           }
