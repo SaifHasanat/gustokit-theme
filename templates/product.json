@@ -99,8 +99,8 @@
         "column_9LQe6F": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Dual Convenience",
+            "text": "<p>Allows for both spraying and pouring oil, making it versatile for various cooking methods such as dressing, roasting, and grilling.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -108,8 +108,8 @@
         "column_hbMXhQ": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Sealed Hygiene",
+            "text": "<p>Designed to be leak-proof with a comfortable handle and prominent nozzle, ensuring a clean and mess-free experience without getting hands dirty.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -117,8 +117,8 @@
         "column_UhEgGh": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Healthier Cooking",
+            "text": "<p>Helps control the amount of oil used, promoting healthier cooking habits by allowing precise oil measurement and usage.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -130,7 +130,7 @@
         "column_UhEgGh"
       ],
       "settings": {
-        "title": "Multicolumn",
+        "title": "Product Benefits",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
