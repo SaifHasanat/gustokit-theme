@@ -44,8 +44,8 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How It works",
-            "icon": "lightning_bolt",
+            "heading": "How It works{{ block.settings.page.title }}",
+            "icon": "bottle",
             "content": "<ol><li>Fill the reservoir with your choice of oil.<\/li><li>Pump the dispenser to atomize the oil into a fine mist.<\/li><li>Spray the oil evenly over your dishes for perfect flavor and texture.<\/li><\/ol>",
             "page": "materials-and-care"
           }
