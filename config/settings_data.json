@@ -135,21 +135,13 @@
     "content_for_index": [
 
     ],
-    "blocks": {
-      "18423266570658624584": {
-        "type": "shopify:\/\/apps\/best-currency-converter\/blocks\/doubly\/267afa86-a419-4d5b-a61b-556038e7294d",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
           "background": "#f4f4f4",
           "background_gradient": "",
           "text": "#2b2c2d",
-          "button": "#b7aca2",
+          "button": "#00df9e",
           "button_label": "#262626",
           "secondary_button_label": "#001128",
           "shadow": "#001128"
