@@ -58,6 +58,15 @@
             "content": "<p>Q: Is the Glass Oil Sprayer easy to clean?<\/p><p>A: Definitely! Just wash it with warm, soapy water and let it dry completely before using it again.<\/p><p>Q: Can I use flavored oils in the dispenser?<\/p><p>A: Yes, you can! The Glass Oil Sprayer works well with various types of oils, giving you the freedom to try different flavors in your recipes.<\/p><p>Enhance your culinary experience with the Glass Oil Sprayer & Dispenser. Wave goodbye to messy and wasteful cooking, and embrace precision and sustainability!<\/p>",
             "page": "merchandising-tips"
           }
+        },
+        "collapsible_tab_Un8fQN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping",
+            "icon": "plane",
+            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Form 5 - 10 business days <\/li><\/ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -68,7 +77,8 @@
         "description",
         "collapsible-row-1",
         "collapsible-row-0",
-        "collapsible-row-2"
+        "collapsible-row-2",
+        "collapsible_tab_Un8fQN"
       ],
       "settings": {
         "enable_sticky_info": true,
