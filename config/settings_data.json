@@ -398,7 +398,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-
+      ".card__heading a {text-decoration: none;}"
     ]
   }
 }
