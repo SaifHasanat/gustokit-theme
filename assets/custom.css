@@ -8,14 +8,31 @@
   }
   /* the meniu in the header */
 
-.header.header--middle-left.header--mobile-center.page-width.header--has-menu li {
-    margin-right: 30px;
-  }
 
-.header__menu-item.list-menu__item.link.link--text.focus-inset {
-    font-weight: 500;
- 
-}  
+  .header__inline-menu .list-menu--inline li {
+    margin-left: 20px;
+  }
+  .header__inline-menu .list-menu--inline li a {
+    font-size: 18px;
+    text-decoration: none;
+    transition: color 0.3s ease, background-color 0.3s ease;
+   }
+  /* chang margin and font size for the menu in the navbare */
+  /* try to remove text decoration */
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .header__inline-menu .list-menu--inline li a {
+      font-size: 14px;
+  }
+  
+  .header__inline-menu .list-menu--inline li:last-child {
+      margin-right: 0;
+  }
+}
+/* custom navbar magins and font siz for the templates */
+
 
 .button.button--secondary {
     font-weight: 500;
