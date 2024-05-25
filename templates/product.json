@@ -137,9 +137,9 @@
       ],
       "settings": {
         "title": "Product Benefits",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "circle",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
