@@ -185,6 +185,15 @@
         "padding_bottom": 16
       }
     },
+    "custom_liquid_RrELLz": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<!-- Start of Judge.me code --> \n  <div style='clear:both'><\/div> \n  <div id='judgeme_product_reviews' class='jdgm-widget jdgm-review-widget' data-id='{{ product.id }}'> \n    {{ product.metafields.judgeme.widget }} \n  <\/div> \n<!-- End of Judge.me code -->",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -202,36 +211,13 @@
         "padding_top": 36,
         "padding_bottom": 44
       }
-    },
-    "1716707403a5c49cdc": {
-      "type": "apps",
-      "blocks": {
-        "judge_me_reviews_review_widget_W3WjHP": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "judge_me_reviews_review_widget_W3WjHP"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "17167108857a1baa33": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
     "multicolumn_p4cwfa",
     "quick-order-list",
-    "related-products",
-    "1716707403a5c49cdc",
-    "17167108857a1baa33"
+    "custom_liquid_RrELLz",
+    "related-products"
   ]
 }
