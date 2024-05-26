@@ -19,7 +19,12 @@
     }
   }
 {%- endstyle -%}
-
+<!-- Start of Judge.me code --> 
+  <div style='clear:both'></div> 
+  <div id='judgeme_product_reviews' class='page-width jdgm-widget jdgm-review-widget' data-id='{{ product.id }}'> 
+    {{ product.metafields.judgeme.widget }} 
+  </div> 
+<!-- End of Judge.me code -->
 <div class="color-{{ section.settings.color_scheme }} gradient">
   <product-recommendations
     class="related-products page-width section-{{ section.id }}-padding isolate{% if settings.animations_reveal_on_scroll %} scroll-trigger animate--slide-in{% endif %}"
