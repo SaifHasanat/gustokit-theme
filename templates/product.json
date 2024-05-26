@@ -32,22 +32,49 @@
           "settings": {
           }
         },
-        "collapsible-row-1": {
+        "collapsible_tab_c4fXw6": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Product features",
-            "icon": "star",
-            "content": "<p>🌟 Ultimate Kitchen Companion: Combining an oil dispenser and sprayer, this 2-in-1 tool meets all your culinary needs. Its wide bottle mouth design eliminates the need for funnels, making it easy to use and fill.<br\/><br\/>✨ Premium Quality and Safety: Made from high-quality, BPA-free glass, this dispenser is odorless and ensures safe food preparation. The thickened glass construction provides durability, making it ideal for both indoor and outdoor use.<br\/><br\/>💕 Multi-Purpose Functionality: This versatile tool isn't just for oil—use it for vinegar, soy sauce, and other essential kitchen liquids. It's perfect for grilling, preparing salads, baking, watering plants, and even cleaning, showcasing its broad range of applications.<br\/><br\/>🌷 Precise Oil Management: A simple thumb press on the pump delivers a precise 0.2 ml spray, ensuring even distribution on your food and cookware. This efficient control system helps you manage oil usage effectively during cooking.<\/p>",
-            "page": "product-features"
+            "heading": "Specification",
+            "icon": "check_mark",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible_tab_Un8fQN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Shipping",
+            "icon": "plane",
+            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Form 5 - 10 business days <\/li><\/ul>",
+            "page": ""
           }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How It works{{ block.settings.page.title }}",
-            "icon": "bottle",
+            "heading": "Money-Back Guarantee",
+            "icon": "clipboard",
             "content": "<ol><li>Fill the reservoir with your choice of oil.<\/li><li>Pump the dispenser to atomize the oil into a fine mist.<\/li><li>Spray the oil evenly over your dishes for perfect flavor and texture.<\/li><\/ol>",
             "page": "materials-and-care"
+          }
+        },
+        "collapsible_tab_WzGCJB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "We Promise you",
+            "icon": "heart",
+            "content": "",
+            "page": ""
+          }
+        },
+        "collapsible_tab_eJhfJ9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How to use",
+            "icon": "star",
+            "content": "",
+            "page": ""
           }
         },
         "collapsible-row-2": {
@@ -58,15 +85,6 @@
             "content": "<p>Q: Is the Glass Oil Sprayer easy to clean?<\/p><p>A: Definitely! Just wash it with warm, soapy water and let it dry completely before using it again.<\/p><p>Q: Can I use flavored oils in the dispenser?<\/p><p>A: Yes, you can! The Glass Oil Sprayer works well with various types of oils, giving you the freedom to try different flavors in your recipes.<\/p><p>Enhance your culinary experience with the Glass Oil Sprayer & Dispenser. Wave goodbye to messy and wasteful cooking, and embrace precision and sustainability!<\/p>",
             "page": "merchandising-tips"
           }
-        },
-        "collapsible_tab_Un8fQN": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Shipping",
-            "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Form 5 - 10 business days <\/li><\/ul>",
-            "page": ""
-          }
         }
       },
       "block_order": [
@@ -75,10 +93,12 @@
         "text_L6Nydf",
         "buy_buttons_iq8f7D",
         "description",
-        "collapsible-row-1",
+        "collapsible_tab_c4fXw6",
+        "collapsible_tab_Un8fQN",
         "collapsible-row-0",
-        "collapsible-row-2",
-        "collapsible_tab_Un8fQN"
+        "collapsible_tab_WzGCJB",
+        "collapsible_tab_eJhfJ9",
+        "collapsible-row-2"
       ],
       "settings": {
         "enable_sticky_info": true,
