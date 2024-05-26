@@ -216,6 +216,12 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "17167108857a1baa33": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -223,6 +229,7 @@
     "multicolumn_KmJTr6",
     "quick-order-list",
     "related-products",
-    "1716707403a5c49cdc"
+    "1716707403a5c49cdc",
+    "17167108857a1baa33"
   ]
 }
