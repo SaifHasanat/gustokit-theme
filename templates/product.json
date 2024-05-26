@@ -8,6 +8,13 @@
           "settings": {
           }
         },
+        "variant_picker_fUUPWR": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "square"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -94,6 +101,7 @@
       },
       "block_order": [
         "title",
+        "variant_picker_fUUPWR",
         "price",
         "judge_me_reviews_preview_badge_WBbCBL",
         "text_L6Nydf",
