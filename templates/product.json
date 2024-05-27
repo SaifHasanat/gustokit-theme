@@ -65,9 +65,9 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Money-Back Guarantee",
+            "heading": "Free-Risk Guarantee",
             "icon": "clipboard",
-            "content": "<ol><li><\/li><\/ol>",
+            "content": "<p>Not satisfied with your order? Send it back within 90 days after order was placed. The first return on each order is free.<\/p>",
             "page": "materials-and-care"
           }
         },
