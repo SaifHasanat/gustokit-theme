@@ -14,7 +14,6 @@
   },
   "order": [
     "main",
-    "quick-order-list",
-    "related-products"
+    "quick-order-list"
   ]
 }
