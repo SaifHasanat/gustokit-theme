@@ -67,7 +67,7 @@
           "settings": {
             "heading": "Money-Back Guarantee",
             "icon": "clipboard",
-            "content": "<ol><li>Fill the reservoir with your choice of oil.<\/li><li>Pump the dispenser to atomize the oil into a fine mist.<\/li><li>Spray the oil evenly over your dishes for perfect flavor and texture.<\/li><\/ol>",
+            "content": "<ol><li><\/li><\/ol>",
             "page": "materials-and-care"
           }
         },
@@ -85,7 +85,7 @@
           "settings": {
             "heading": "How to use",
             "icon": "star",
-            "content": "",
+            "content": "<ol><li>Fill the reservoir with your choice of oil.<\/li><li>Pump the dispenser to atomize the oil into a fine mist.<\/li><li>Spray the oil evenly over your dishes for perfect flavor and texture.<\/li><\/ol>",
             "page": ""
           }
         },
