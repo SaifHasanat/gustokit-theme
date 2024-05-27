@@ -20,16 +20,16 @@
           "settings": {
           }
         },
-        "judge_me_reviews_preview_badge_8RDkPX": {
-          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        },
         "text_L6Nydf": {
           "type": "text",
           "settings": {
             "text": "Free Shipping",
             "text_style": "body"
+          }
+        },
+        "judge_me_reviews_preview_badge_8RDkPX": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
           }
         },
         "buy_buttons_iq8f7D": {
@@ -103,8 +103,8 @@
         "title",
         "variant_picker_fUUPWR",
         "price",
-        "judge_me_reviews_preview_badge_8RDkPX",
         "text_L6Nydf",
+        "judge_me_reviews_preview_badge_8RDkPX",
         "buy_buttons_iq8f7D",
         "description",
         "collapsible_tab_c4fXw6",
