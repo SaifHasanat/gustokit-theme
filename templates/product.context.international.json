@@ -13,7 +13,6 @@
     }
   },
   "order": [
-    "main",
-    "quick-order-list"
+    "main"
   ]
 }
