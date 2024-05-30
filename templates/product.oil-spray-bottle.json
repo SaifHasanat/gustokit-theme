@@ -1,0 +1,154 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "variant_picker_fUUPWR": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "text_L6Nydf": {
+          "type": "text",
+          "settings": {
+            "text": "Free Shipping",
+            "text_style": "body"
+          }
+        },
+        "judge_me_reviews_preview_badge_8RDkPX": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "buy_buttons_iq8f7D": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "collapsible_tab_c4fXw6": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specification",
+            "icon": "check_mark",
+            "content": "<p>Material: glass<\/p><p>capacity: 470ml<\/p><p>Height: 18.5cm<\/p><p>bottle width from the bottom: 8cm<br\/>*Made of environmentally friendly materials<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_Un8fQN": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Free Shipping",
+            "icon": "plane",
+            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li> 5 - 6 business to the United    Kingdom<\/li><li>5 - 10 business days to the United States<\/li><li>5 - 10 business days to the Worldwide<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible-row-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Risk-Free Guarantee",
+            "icon": "clipboard",
+            "content": "<p>Not satisfied with your order? Send it back within 90 days after order was placed. The first return on each order is free.<\/p>",
+            "page": "materials-and-care"
+          }
+        },
+        "collapsible_tab_WzGCJB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "We Promise you",
+            "icon": "heart",
+            "content": "<p>This product will help you control more in your calories, get a better flavor, and contribute to the preservation of the environment<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_eJhfJ9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How to use",
+            "icon": "star",
+            "content": "<ol><li>Fill the reservoir with your choice of oil.<\/li><li>Pump the dispenser to atomize the oil into a fine mist.<\/li><li>Spray the oil evenly over your dishes for perfect flavor and texture.<\/li><\/ol>",
+            "page": ""
+          }
+        },
+        "collapsible-row-2": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "FAQ",
+            "icon": "question_mark",
+            "content": "<p>Q: Is the Glass Oil Sprayer easy to clean?<\/p><p>A: Definitely! Just wash it with warm, soapy water and let it dry completely before using it again.<\/p><p>Q: Can I use flavored oils in the dispenser?<\/p><p>A: Yes, you can! The Glass Oil Sprayer works well with various types of oils, giving you the freedom to try different flavors in your recipes.<\/p><p>Enhance your culinary experience with the Glass Oil Sprayer & Dispenser. Wave goodbye to messy and wasteful cooking, and embrace precision and sustainability!<\/p>",
+            "page": "merchandising-tips"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "variant_picker_fUUPWR",
+        "price",
+        "text_L6Nydf",
+        "judge_me_reviews_preview_badge_8RDkPX",
+        "buy_buttons_iq8f7D",
+        "description",
+        "collapsible_tab_c4fXw6",
+        "collapsible_tab_Un8fQN",
+        "collapsible-row-0",
+        "collapsible_tab_WzGCJB",
+        "collapsible_tab_eJhfJ9",
+        "collapsible-row-2"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-2",
+        "media_size": "medium",
+        "constrain_to_viewport": false,
+        "media_fit": "cover",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1716809130026e9a90": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_jWLyFU": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_jWLyFU"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1716809130026e9a90"
+  ]
+}
