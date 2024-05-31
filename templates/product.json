@@ -62,30 +62,12 @@
             "page": ""
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Risk-Free Guarantee",
-            "icon": "clipboard",
-            "content": "",
-            "page": "materials-and-care"
-          }
-        },
         "collapsible_tab_WzGCJB": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "We Promise you",
             "icon": "heart",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible_tab_eJhfJ9": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How to use",
-            "icon": "star",
-            "content": "",
+            "content": "<p>This product will help you organize your diet<\/p>",
             "page": ""
           }
         },
@@ -109,9 +91,7 @@
         "description",
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Un8fQN",
-        "collapsible-row-0",
         "collapsible_tab_WzGCJB",
-        "collapsible_tab_eJhfJ9",
         "collapsible-row-2"
       ],
       "settings": {
