@@ -62,40 +62,13 @@
             "page": ""
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Risk-Free Guarantee",
-            "icon": "clipboard",
-            "content": "<p>Material: PP<\/p><p>Color: Transparent<\/p><p>Size: 22.8*16*8.5cm; 17*15.5*7.5cm<\/p><p>Package Includes: 1 * Refrigerator Storage Box<\/p>",
-            "page": "materials-and-care"
-          }
-        },
         "collapsible_tab_WzGCJB": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "We Promise you",
             "icon": "heart",
-            "content": "",
+            "content": "<p>Our product will help you organize your food more<\/p>",
             "page": ""
-          }
-        },
-        "collapsible_tab_eJhfJ9": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "How to use",
-            "icon": "star",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "FAQ",
-            "icon": "question_mark",
-            "content": "",
-            "page": "merchandising-tips"
           }
         }
       },
@@ -109,10 +82,7 @@
         "description",
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Un8fQN",
-        "collapsible-row-0",
-        "collapsible_tab_WzGCJB",
-        "collapsible_tab_eJhfJ9",
-        "collapsible-row-2"
+        "collapsible_tab_WzGCJB"
       ],
       "settings": {
         "enable_sticky_info": true,
