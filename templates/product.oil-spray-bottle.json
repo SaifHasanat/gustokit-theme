@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Free Shipping",
             "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li> 7-8 business to the United    Kingdom<\/li><li>8 - 11 business days to the United States<\/li><li>10 - 15 business days to the Worldwide<\/li><\/ul>",
+            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><\/ul>",
             "page": ""
           }
         },
@@ -79,15 +79,6 @@
             "content": "<p>1. Silicone mold<\/p><p>2. Ice cream sticks<\/p><p>3. Cleaning brush<\/p><p>4. A silicone piece to help you tire the liquid inside the mold<\/p>",
             "page": ""
           }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "FAQ",
-            "icon": "question_mark",
-            "content": "<p>Q: Is the Glass Oil Sprayer easy to clean?<\/p><p>A: Definitely! Just wash it with warm, soapy water and let it dry completely before using it again.<\/p><p>Q: Can I use flavored oils in the dispenser?<\/p><p>A: Yes, you can! The Glass Oil Sprayer works well with various types of oils, giving you the freedom to try different flavors in your recipes.<\/p><p>Enhance your culinary experience with the Glass Oil Sprayer & Dispenser. Wave goodbye to messy and wasteful cooking, and embrace precision and sustainability!<\/p>",
-            "page": "merchandising-tips"
-          }
         }
       },
       "block_order": [
@@ -101,8 +92,7 @@
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Un8fQN",
         "collapsible_tab_WzGCJB",
-        "collapsible_tab_eJhfJ9",
-        "collapsible-row-2"
+        "collapsible_tab_eJhfJ9"
       ],
       "settings": {
         "enable_sticky_info": true,
