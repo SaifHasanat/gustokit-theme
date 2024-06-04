@@ -46,3 +46,7 @@
   padding-right:25px ;
 }
 /* edit padding for the product container  */
+
+h3.card__heading .full-unstyled-link {
+  text-decoration: none;}
+  /*remove the line under the product url  */
