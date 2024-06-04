@@ -404,7 +404,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".card__heading a {text-decoration: none;}"
+      ".full-unstyled-link {text-decoration: none;}"
     ]
   }
 }
