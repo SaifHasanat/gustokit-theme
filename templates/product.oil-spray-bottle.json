@@ -74,9 +74,9 @@
         "collapsible_tab_eJhfJ9": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "How to use",
-            "icon": "star",
-            "content": "<ol><li>Fill the reservoir with your choice of oil.<\/li><li>Pump the dispenser to atomize the oil into a fine mist.<\/li><li>Spray the oil evenly over your dishes for perfect flavor and texture.<\/li><\/ol>",
+            "heading": "what in the package",
+            "icon": "box",
+            "content": "<p>1. Silicone mold<\/p><p>2. Ice cream sticks<\/p><p>3. Cleaning brush<\/p><p>4. A silicone piece to help you tire the liquid inside the mold<\/p>",
             "page": ""
           }
         },
