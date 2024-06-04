@@ -47,6 +47,27 @@
 }
 /* edit padding for the product container  */
 
+
 h3.card__heading .full-unstyled-link {
   text-decoration: none;}
-  /*remove the line under the product url  */
+/*remove the line under the product url  */
+
+
+.list-menu .header__menu-item span {
+  text-decoration: none;
+  transition: color 0.3s, text-shadow 0.3s;
+  color: #010101;
+}
+
+.list-menu .header__menu-item[aria-current="page"] span {
+  color: #AEDAE6;
+  text-shadow: 0 0 15px #AEDAE6;
+}
+
+.list-menu .header__menu-item span:hover,
+.list-menu .header__menu-item span:focus,
+.list-menu .header__menu-item span:active {
+  color: #AEDAE6;
+  text-shadow: 0 0 15px #AEDAE6;
+}
+/* edit the header means items */
