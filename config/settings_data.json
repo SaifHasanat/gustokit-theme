@@ -404,7 +404,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".full-unstyled-link {text-decoration: none;}"
+
     ]
   }
 }
