@@ -62,21 +62,12 @@
             "page": ""
           }
         },
-        "collapsible-row-0": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Risk-Free Guarantee",
-            "icon": "clipboard",
-            "content": "<p>Not satisfied with your order? Send it back within 90 days after order was placed. The first return on each order is free.<\/p>",
-            "page": "materials-and-care"
-          }
-        },
         "collapsible_tab_WzGCJB": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "We Promise you",
             "icon": "heart",
-            "content": "<p>This product will help you control more in your calories, get a better flavor, and contribute to the preservation of the environment<\/p>",
+            "content": "<p>Our product will make your summer more enjoyable and healthier 😊<\/p>",
             "page": ""
           }
         },
@@ -109,7 +100,6 @@
         "description",
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Un8fQN",
-        "collapsible-row-0",
         "collapsible_tab_WzGCJB",
         "collapsible_tab_eJhfJ9",
         "collapsible-row-2"
