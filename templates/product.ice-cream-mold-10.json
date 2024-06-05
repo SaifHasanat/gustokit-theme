@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Free Shipping",
             "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><\/ul>",
+            "content": "<p><\/p><ul><li>Free Shipping <\/li><li>Tracking available<\/li><\/ul><p>No extra charges on the product<\/p>",
             "page": ""
           }
         },
