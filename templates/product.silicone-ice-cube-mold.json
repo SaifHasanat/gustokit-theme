@@ -49,7 +49,7 @@
           "settings": {
             "heading": "Specification",
             "icon": "check_mark",
-            "content": "<p>Material: Silicone<\/p><p>Color: Like the picture<\/p><p>size: 20*10.5*2.5cm<\/p>",
+            "content": "<p>Material: Silicone +ABS<\/p><p>Size: 8.5*8*9cm<\/p><p>Ice size: 1.3cm<\/p><p>Color: Gray, yellow, blue<\/p><p>Products include: 1PC ice mold<\/p>",
             "page": ""
           }
         },
@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Free Shipping",
             "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Shipping to the UK: 5-6 business days.<\/li><li>Shipping to the US: 6-9 business days.<\/li><\/ul><p><strong>No extra charges on the product<\/strong><\/p>",
+            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Shipping to the UK: 5-6 business days.<\/li><li>Shipping to the US: 5-9 business days.<\/li><\/ul><p><strong>No extra charges on the product<\/strong><\/p>",
             "page": ""
           }
         },
@@ -74,10 +74,11 @@
         },
         "collapsible_tab_Rp7wiD": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "What in the Box",
             "icon": "box",
-            "content": "<p>each silicone mold comes with 50 sticks, and a dust cover<\/p>",
+            "content": "<p>1 ice mold<\/p>",
             "page": ""
           }
         }
