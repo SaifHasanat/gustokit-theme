@@ -44,24 +44,6 @@
           "settings": {
           }
         },
-        "collapsible_tab_c4fXw6": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Specification",
-            "icon": "check_mark",
-            "content": "<p>Material: Silicone<\/p><p>Color: Like the picture<\/p><p>size: 20*10.5*2.5cm<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_Un8fQN": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Free Shipping",
-            "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Shipping to the UK: 5-6 business days.<\/li><li>Shipping to the US: 6-9 business days.<\/li><\/ul><p><strong>No extra charges on the product<\/strong><\/p>",
-            "page": ""
-          }
-        },
         "collapsible_tab_WzGCJB": {
           "type": "collapsible_tab",
           "disabled": true,
@@ -69,15 +51,6 @@
             "heading": "We Promise you",
             "icon": "heart",
             "content": "<p>Our product will help you organize your food more<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_Rp7wiD": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "What in the Box",
-            "icon": "box",
-            "content": "<p>each silicone mold comes with 50 sticks, and a dust cover<\/p>",
             "page": ""
           }
         }
@@ -90,10 +63,7 @@
         "judge_me_reviews_preview_badge_8RDkPX",
         "buy_buttons_iq8f7D",
         "description",
-        "collapsible_tab_c4fXw6",
-        "collapsible_tab_Un8fQN",
-        "collapsible_tab_WzGCJB",
-        "collapsible_tab_Rp7wiD"
+        "collapsible_tab_WzGCJB"
       ],
       "settings": {
         "enable_sticky_info": true,
