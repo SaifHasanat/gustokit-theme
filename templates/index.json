@@ -88,21 +88,23 @@
         "row_UcJHyg": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/FE6A863F27FE78767699954BC183A5F3_7faa8372-d080-4c7c-8f14-aa976529192d.png",
+            "caption": "",
+            "heading": "The most innovative product",
+            "text": "<p>🌟Your New Favorite Tool <\/p><p>Spray and pour, so you can cook food more easily and quickly, and most importantly, <strong>more healthily <\/strong><\/p>",
+            "button_label": "take a look",
+            "button_link": "shopify:\/\/products\/2-in-1-glass-oil-spray"
           }
         },
         "row_nbkgEb": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "image": "shopify:\/\/shop_images\/S043f8153acdb4601a07cce8a83bd07ecq.webp",
+            "caption": "",
+            "heading": "Newly arrived and in high demand",
+            "text": "<p><strong>☕ <\/strong>Vacuum Insulated Coffee Mug<\/p><p>🌟 Premium Stainless Steel<\/p><p>🎉 Multipurpose Use<\/p><p>👌 Comfortable Handle<\/p><p>💯 Satisfaction Guaranteed<\/p>",
+            "button_label": "take a look",
+            "button_link": "shopify:\/\/products\/double-layer-anti-scalding-stainless-steel-cups-plastic-handle-coffee-milk-mug-tea-drinks-water-cup-for-home-office-tumbler"
           }
         }
       },
