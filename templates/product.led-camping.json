@@ -48,6 +48,13 @@
             "show_gift_card_recipient": true
           }
         },
+        "text_KqWnM4": {
+          "type": "text",
+          "settings": {
+            "text": "If you want to pay by card, you can use Paypal Express checkout",
+            "text_style": "body"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -88,6 +95,7 @@
         "text_L6Nydf",
         "judge_me_reviews_preview_badge_8RDkPX",
         "buy_buttons_iq8f7D",
+        "text_KqWnM4",
         "description",
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Un8fQN",
