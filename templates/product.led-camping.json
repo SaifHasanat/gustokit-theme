@@ -74,7 +74,7 @@
           "settings": {
             "heading": "Free Shipping",
             "icon": "plane",
-            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><li>Shipping to the UK: 7 - 8 business days.<\/li><li>Shipping to the US: 7 - 11 business days.<\/li><\/ul><p><strong>No extra charges on the product<\/strong><\/p>",
+            "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><\/ul><p><\/p><ul><li>Shipping to the UK: 7 - 8 business days.<\/li><li>Shipping to the US: 7 - 11 business days.<\/li><li>Shipping to Canada: 10 - 14 business days.<\/li><li>Shipping to Australia: 7 - 13 business days.<\/li><li>Shipping to Other countries: 10 - 20 business days,<strong> <\/strong>You can review the <a href=\"https:\/\/gustokit.com\/policies\/shipping-policy\" target=\"_blank\" title=\"https:\/\/gustokit.com\/policies\/shipping-policy\">shipping policy<\/a><\/li><\/ul><p><strong>No extra charges on the product<\/strong><\/p>",
             "page": ""
           }
         },
