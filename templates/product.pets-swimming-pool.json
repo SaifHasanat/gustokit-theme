@@ -133,7 +133,7 @@
         "text_Hy7jDr": {
           "type": "text",
           "settings": {
-            "text": "<p>Keep your dog cool this summer with the Pet Splash Oasis!<br\/>A fun and refreshing way to beat the heat!<\/p>",
+            "text": "<p>Keep your furry friend cool this summer with the Pet Splash Oasis!<br\/>A fun and refreshing way to beat the heat!<\/p>",
             "text_style": "body"
           }
         },
@@ -173,14 +173,14 @@
         "heading_4rqdLW": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Active and healthy",
             "heading_size": "h1"
           }
         },
         "text_zC4Xaw": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Keep your dog active and healthy this summer with our innovative sprinkler pad!<br\/>A fun way to ensure your pet stays fit and refreshed!<\/p>",
             "text_style": "body"
           }
         },
