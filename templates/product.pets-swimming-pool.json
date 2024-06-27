@@ -62,16 +62,6 @@
             "page": ""
           }
         },
-        "collapsible_tab_WzGCJB": {
-          "type": "collapsible_tab",
-          "disabled": true,
-          "settings": {
-            "heading": "We Promise you",
-            "icon": "heart",
-            "content": "<p>Our product will help you organize your food more<\/p>",
-            "page": ""
-          }
-        },
         "collapsible_tab_Rp7wiD": {
           "type": "collapsible_tab",
           "settings": {
@@ -90,6 +80,15 @@
             "content": "<ul><li>Free shipping <\/li><li>Tracking available<\/li><\/ul><p>you can check the <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">shipping policy<\/a><\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_JcRPDG": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "How to use",
+            "icon": "question_mark",
+            "content": "<p>1. Put the gasket on the connector<br\/>2. Install the water pipe connector<br\/>3. Connect the water pipe to the mat<br\/>4. Attached water pipe to the faucet and fill the water<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -101,9 +100,9 @@
         "buy_buttons_iq8f7D",
         "description",
         "collapsible_tab_c4fXw6",
-        "collapsible_tab_WzGCJB",
         "collapsible_tab_Rp7wiD",
-        "collapsible_tab_Un8fQN"
+        "collapsible_tab_Un8fQN",
+        "collapsible_tab_JcRPDG"
       ],
       "settings": {
         "enable_sticky_info": true,
