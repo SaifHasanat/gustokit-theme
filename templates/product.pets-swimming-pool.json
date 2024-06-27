@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Product details",
             "icon": "check_mark",
-            "content": "<p>Material: PVC<\/p><p>Feature: Eco-friendly<\/p><p>size: 20*10.5*2.5cm<\/p>",
+            "content": "<p>Material: PVC<\/p><p>Feature: Eco-friendly<\/p><p>Size: S(100*100cm),M (150*150cm),L (170*170cm)<\/p><p><br\/>Color: Blue<\/p>",
             "page": ""
           }
         },
@@ -83,6 +83,7 @@
         },
         "collapsible_tab_Un8fQN": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Free Shipping",
             "icon": "plane",
