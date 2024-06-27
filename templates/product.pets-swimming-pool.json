@@ -95,7 +95,7 @@
           "settings": {
             "heading": "The Payment",
             "icon": "leaf",
-            "content": "<p>We offer PayPal because it is the safest payment method.<br\/>- You can pay from your PayPal balance.<br\/>- You can pay by card via PayPal Express.<\/p>",
+            "content": "<p>We offer PayPal because it is the safest payment method.<br\/>- You can pay from your PayPal balance.<br\/>-and You can pay by card via PayPal Express.<\/p>",
             "page": ""
           }
         }
