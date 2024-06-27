@@ -136,20 +136,11 @@
             "text": "<p>Keep your furry friend cool this summer with the Pet Splash Oasis!<br\/>A fun and refreshing way to beat the heat!<\/p>",
             "text_style": "body"
           }
-        },
-        "button_iUk9kN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_G8UJBK",
-        "text_Hy7jDr",
-        "button_iUk9kN"
+        "text_Hy7jDr"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/fresh-dog4.gif",
@@ -159,8 +150,8 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
@@ -183,20 +174,11 @@
             "text": "<p>Keep your dog active and healthy this summer with our innovative sprinkler pad!<br\/>A fun way to ensure your pet stays fit and refreshed!<\/p>",
             "text_style": "body"
           }
-        },
-        "button_K3jEpr": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_4rqdLW",
-        "text_zC4Xaw",
-        "button_K3jEpr"
+        "text_zC4Xaw"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/dog-jump3.gif",
@@ -234,7 +216,7 @@
         "button_xtnw3E": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false
           }
