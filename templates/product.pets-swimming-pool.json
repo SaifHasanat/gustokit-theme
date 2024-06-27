@@ -89,6 +89,15 @@
             "content": "<p><br\/>1. Put the gasket on the connector.<br\/>2. Install the water pipe connector.<br\/>3. Connect the water pipe to the mat.<br\/>4. Attach the water pipe to the faucet and fill it with water.<\/p>",
             "page": ""
           }
+        },
+        "collapsible_tab_ATiaLB": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "The Payment",
+            "icon": "leaf",
+            "content": "<p>We offer PayPal because it is the safest payment method.<br\/>- You can pay from your PayPal balance.<br\/>- You can pay by card via PayPal Express.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -102,7 +111,8 @@
         "collapsible_tab_c4fXw6",
         "collapsible_tab_Rp7wiD",
         "collapsible_tab_Un8fQN",
-        "collapsible_tab_JcRPDG"
+        "collapsible_tab_JcRPDG",
+        "collapsible_tab_ATiaLB"
       ],
       "settings": {
         "enable_sticky_info": true,
