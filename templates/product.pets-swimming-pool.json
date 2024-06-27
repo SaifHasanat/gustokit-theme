@@ -220,14 +220,14 @@
         "heading_WDYQtg": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "For everyone",
             "heading_size": "h1"
           }
         },
         "text_nC6BEy": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Great for dogs of all shapes and sizes!  <br\/>The perfect splash zone for every playful Dog!<\/p>",
             "text_style": "body"
           }
         },
