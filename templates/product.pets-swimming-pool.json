@@ -168,6 +168,44 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_4LzjAq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KmnBGV": {
+          "type": "heading",
+          "settings": {
+            "heading": "Happy",
+            "heading_size": "h1"
+          }
+        },
+        "text_PhMpiz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>keeps your dog joyful with hours of splashing fun and cooling relief. Watch your furry friend enjoy a refreshing playtime oasis!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KmnBGV",
+        "text_PhMpiz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Untitled_design_3.gif",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_8x6JrH": {
       "type": "image-with-text",
       "blocks": {
@@ -253,44 +291,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_4LzjAq": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_KmnBGV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Happy",
-            "heading_size": "h1"
-          }
-        },
-        "text_PhMpiz": {
-          "type": "text",
-          "settings": {
-            "text": "<p>This product keeps your dog joyful with hours of splashing fun and cooling relief. Watch your furry friend enjoy a refreshing playtime oasis!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KmnBGV",
-        "text_PhMpiz"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_3.gif",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1716809130026e9a90": {
       "type": "apps",
       "blocks": {
@@ -311,9 +311,9 @@
   "order": [
     "main",
     "image_with_text_wzntf6",
+    "image_with_text_4LzjAq",
     "image_with_text_8x6JrH",
     "image_with_text_NK6NbQ",
-    "image_with_text_4LzjAq",
     "1716809130026e9a90"
   ]
 }
