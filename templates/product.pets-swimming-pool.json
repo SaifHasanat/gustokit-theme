@@ -41,6 +41,13 @@
           "settings": {
           }
         },
+        "text_9VfeCk": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>Warning: You won't find this price at any other store. Our 50% discount is real and for a limited time only.<\/strong>",
+            "text_style": "subtitle"
+          }
+        },
         "buy_buttons_iq8f7D": {
           "type": "buy_buttons",
           "settings": {
@@ -106,6 +113,7 @@
         "price",
         "text_L6Nydf",
         "judge_me_reviews_preview_badge_8RDkPX",
+        "text_9VfeCk",
         "buy_buttons_iq8f7D",
         "description",
         "collapsible_tab_c4fXw6",
