@@ -44,7 +44,7 @@
         "text_9VfeCk": {
           "type": "text",
           "settings": {
-            "text": "<strong>Warning: You won't find this price at any other store. Our 50% discount is real and for a limited time only.<\/strong>",
+            "text": "<strong>Attention: <\/strong>You won't find this price anywhere else.<strong> Our 50% <\/strong>discount is real and for a limited time only.",
             "text_style": "subtitle"
           }
         },
