@@ -148,7 +148,7 @@
             "caption": "",
             "heading": "Refreshed",
             "text": "<p>Keep your furry friend cool this summer with the Pet Splash Oasis!<br\/>A fun and refreshing way to beat the heat!<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -159,7 +159,7 @@
             "caption": "",
             "heading": "Happy",
             "text": "<p>keeps your dog joyful with hours of splashing fun and cooling relief. Watch your furry friend enjoy a refreshing playtime oasis!<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -170,7 +170,7 @@
             "caption": "",
             "heading": "Active",
             "text": "<p>Keep your dog active and healthy this summer with our innovative sprinkler pad!<br\/>A fun way to ensure your pet stays fit and refreshed!<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         },
@@ -178,10 +178,10 @@
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
-            "caption": "Caption",
+            "caption": "",
             "heading": "For everyone",
             "text": "<p>Great for dogs of all shapes and sizes!<br\/>The perfect splash zone for every playful Dog!<\/p>",
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": ""
           }
         }
@@ -201,169 +201,8 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_wzntf6": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_G8UJBK": {
-          "type": "heading",
-          "settings": {
-            "heading": "Refreshed",
-            "heading_size": "h1"
-          }
-        },
-        "text_Hy7jDr": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Keep your furry friend cool this summer with the Pet Splash Oasis!<br\/>A fun and refreshing way to beat the heat!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_G8UJBK",
-        "text_Hy7jDr"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/fresh-dog4.gif",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
         "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_4LzjAq": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_KmnBGV": {
-          "type": "heading",
-          "settings": {
-            "heading": "Happy",
-            "heading_size": "h1"
-          }
-        },
-        "text_PhMpiz": {
-          "type": "text",
-          "settings": {
-            "text": "<p>keeps your dog joyful with hours of splashing fun and cooling relief. Watch your furry friend enjoy a refreshing playtime oasis!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_KmnBGV",
-        "text_PhMpiz"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_3.gif",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_8x6JrH": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_4rqdLW": {
-          "type": "heading",
-          "settings": {
-            "heading": "Active and healthy",
-            "heading_size": "h1"
-          }
-        },
-        "text_zC4Xaw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Keep your dog active and healthy this summer with our innovative sprinkler pad!<br\/>A fun way to ensure your pet stays fit and refreshed!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_4rqdLW",
-        "text_zC4Xaw"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/dog-jump3.gif",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_NK6NbQ": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_WDYQtg": {
-          "type": "heading",
-          "settings": {
-            "heading": "For everyone",
-            "heading_size": "h1"
-          }
-        },
-        "text_nC6BEy": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Great for dogs of all shapes and sizes!  <br\/>The perfect splash zone for every playful Dog!<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_xtnw3E": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_WDYQtg",
-        "text_nC6BEy",
-        "button_xtnw3E"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-2",
-        "color_scheme": "scheme-2",
-        "image_behavior": "none",
+        "row_color_scheme": "scheme-2",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -389,10 +228,6 @@
   "order": [
     "main",
     "multirow_Vgi8Ph",
-    "image_with_text_wzntf6",
-    "image_with_text_4LzjAq",
-    "image_with_text_8x6JrH",
-    "image_with_text_NK6NbQ",
     "1716809130026e9a90"
   ]
 }
