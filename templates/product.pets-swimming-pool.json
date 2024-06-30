@@ -138,6 +138,76 @@
         "padding_bottom": 36
       }
     },
+    "multirow_Vgi8Ph": {
+      "type": "multirow",
+      "blocks": {
+        "row_wqCmG6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fresh-dog4.gif",
+            "caption": "",
+            "heading": "Refreshed",
+            "text": "<p>Keep your furry friend cool this summer with the Pet Splash Oasis!<br\/>A fun and refreshing way to beat the heat!<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_nJapHV": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_3.gif",
+            "caption": "",
+            "heading": "Happy",
+            "text": "<p>keeps your dog joyful with hours of splashing fun and cooling relief. Watch your furry friend enjoy a refreshing playtime oasis!<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_6NpVzd": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/dog-jump3.gif",
+            "caption": "",
+            "heading": "Active",
+            "text": "<p>Keep your dog active and healthy this summer with our innovative sprinkler pad!<br\/>A fun way to ensure your pet stays fit and refreshed!<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_V9kfG6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
+            "caption": "Caption",
+            "heading": "For everyone",
+            "text": "<p>Great for dogs of all shapes and sizes!<br\/>The perfect splash zone for every playful Dog!<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_wqCmG6",
+        "row_nJapHV",
+        "row_6NpVzd",
+        "row_V9kfG6"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_wzntf6": {
       "type": "image-with-text",
       "blocks": {
@@ -318,6 +388,7 @@
   },
   "order": [
     "main",
+    "multirow_Vgi8Ph",
     "image_with_text_wzntf6",
     "image_with_text_4LzjAq",
     "image_with_text_8x6JrH",
