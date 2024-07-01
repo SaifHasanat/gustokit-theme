@@ -152,24 +152,13 @@
             "button_link": ""
           }
         },
-        "row_nJapHV": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled_design_3.gif",
-            "caption": "",
-            "heading": "<strong>Happy & Active:<\/strong>",
-            "text": "<p><strong>Keep your dog joyful and active with hours of splashing fun and cooling relief. Our innovative sprinkler pad ensures your furry friend enjoys a refreshing playtime oasis while staying fit and healthy this summer!<\/strong><\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
         "row_V9kfG6": {
           "type": "row",
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_3.png",
             "caption": "",
             "heading": "For everyone",
-            "text": "<p>Great for dogs of all shapes and sizes!<br\/>The perfect splash zone for every playful Dog!<\/p>",
+            "text": "<p><strong>Great for dogs of all shapes and sizes!<br\/>The perfect splash zone for every playful Dog!<\/strong><\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -177,7 +166,6 @@
       },
       "block_order": [
         "row_wqCmG6",
-        "row_nJapHV",
         "row_V9kfG6"
       ],
       "settings": {
