@@ -146,8 +146,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/fresh-dog4.gif",
             "caption": "",
-            "heading": "Refreshed",
-            "text": "<p>Keep your furry friend cool this summer with the Gusto Splash™<br\/>A fun and refreshing way to beat the heat!<\/p>",
+            "heading": "Refreshed:",
+            "text": "<p><strong>Keep your furry friend cool and happy this summer with the Gusto Splash™. This innovative product offers a fun and refreshing way for your pet to beat the heat, ensuring hours of cool entertainment and playtime under the sun.<\/strong><\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -157,19 +157,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Untitled_design_3.gif",
             "caption": "",
-            "heading": "Happy",
-            "text": "<p>keeps your dog joyful with hours of splashing fun and cooling relief. Watch your furry friend enjoy a refreshing playtime oasis!<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "row_6NpVzd": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/dog-jump3.gif",
-            "caption": "",
-            "heading": "Active",
-            "text": "<p>Keep your dog active and healthy this summer with our innovative sprinkler pad!<br\/>A fun way to ensure your pet stays fit and refreshed!<\/p>",
+            "heading": "<strong>Happy & Active:<\/strong>",
+            "text": "<p><strong>Keep your dog joyful and active with hours of splashing fun and cooling relief. Our innovative sprinkler pad ensures your furry friend enjoys a refreshing playtime oasis while staying fit and healthy this summer!<\/strong><\/p>",
             "button_label": "",
             "button_link": ""
           }
@@ -189,7 +178,6 @@
       "block_order": [
         "row_wqCmG6",
         "row_nJapHV",
-        "row_6NpVzd",
         "row_V9kfG6"
       ],
       "settings": {
